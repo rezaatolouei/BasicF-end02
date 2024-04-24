@@ -1,0 +1,56 @@
+
+/* reZStore design */
+
+#bodystore{
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+}
+#brandstore{
+    color: teal;
+    
+}
+#divbodystore{
+    line-height: 50px;
+}
+#buttonstore{
+    background-color: green;
+    width: 150px;
+    height: 25px;
+}
+
+/* register design */
+
+#bodyregister{
+    background-color: burlywood;
+    text-align: right;
+    width: 800px;
+    height: 1000px;
+}
+#titleregister{
+    font-size: xx-large;
+    text-align: center;
+    width: 400px;
+}
+#divbodyregister{
+    text-align: center;
+    background-color: darkcyan;
+    width: 400px;
+    border-radius: 110px;
+    height: 500px;
+
+}
+#buttonregister{
+    background-color: burlywood;
+    width: 65px;
+    height: 30px;
+}
+
+/* signin design */
+
+#signinbody{
+    background-color: burlywood;
+    text-align: center;
+    color: goldenrod;
+}
